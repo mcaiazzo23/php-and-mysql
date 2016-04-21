@@ -5,10 +5,10 @@
 </head>
 <body>
 <?php
-$name = "Michael Caiazzo"
+$name = "Michael Caiazzo";
 $name_more = array("Mike","Mikey","Mikey Boi","MAC Daddy");
 
-echo $name_more[0];
+echo '<h1>'.$name_more[0].'</h1>';
 ?>
 </body>
 </html>
